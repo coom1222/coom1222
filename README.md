@@ -1,5 +1,6 @@
-## Hi there 👋  
+## Hi there~ 👋👋   
 안녕하세요! 백엔드 개발자를 꿈꾸며 빈둥대는 클라이머입니다! 부족한 게 많지만 많이 봐주세요!
+
 <!--
 **coom1222/coom1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
