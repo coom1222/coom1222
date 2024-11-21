@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{coom1222} width="1000" height="120"/ >
+<img
+  src="https://render.gitanimals.org/farms/coom1222"
+  width="600"
+  height="300"
+/>
 </a>
-
 
 <br>
 
