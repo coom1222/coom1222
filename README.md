@@ -36,7 +36,7 @@
 
 <br>
 
-[![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=coom1222&show_icons=true&theme=one_dark_pro)]
+![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=coom1222&show_icons=true&theme=one_dark_pro)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=coom1222)](https://solved.ac/coom1222)
