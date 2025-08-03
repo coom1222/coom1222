@@ -21,7 +21,6 @@
   |🗄 **Database** |![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat) |
   |⚙️ **DevOps**   |![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) 
 
-<br>
   
   ### 📚 Studying 📚
   | Position | Stack |
