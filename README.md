@@ -1,20 +1,7 @@
 ## 👋👋   
 안녕하세요! 백엔드 개발자를 꿈꾸며 빈둥대는 클라이머입니다! 부족한 게 많지만 많이 봐주세요!
 
-<!--
-**coom1222/coom1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -24,20 +11,40 @@ Here are some ideas to get you started:
 />
 </a>
 
+---
+
+ 
+  ### 📚 Tech Stack
+  | Position | Stack |
+  |--------- |-------|
+  |🛠 **Backend** | ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=Springboot&logoColor=white&style=flat) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  |
+  |🗄 **Database** |![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat) |
+  |⚙️ **DevOps**   |![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) 
+
+<br>
+  
+  ### 📚 Studying 📚
+  | Position | Stack |
+  |--------- |-------|
+  | 🎨 **Frontend**  |![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
+  | ✍️ **Language**   | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)| |
+   |⚙️ **DevOps**   |![nginx](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=flat) 
+
+
+
+
+----
+
 <br>
 
-### 📚 Studying 📚
-<p>
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring%20boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
+[![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=coom1222&show_icons=true&theme=one_dark_pro)]
 
-### 🛠 Tools 🛠
-<p>
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
-</p>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=coom1222)](https://solved.ac/coom1222)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br>
+<br>
+
