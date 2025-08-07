@@ -95,7 +95,7 @@
  ![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=coom1222)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coom1222&layout=donut&theme=solarized-light&langs_count=5&hide=mustache,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coom1222&layout=donut&theme=solarized-light&langs_count=5&hide=mustache)
 
 
 <br>
