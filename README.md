@@ -1,5 +1,4 @@
-## 👋👋   
-안녕하세요! 백엔드 개발자를 꿈꾸며 빈둥대는 클라이머입니다! 부족한 게 많지만 많이 봐주세요!
+🧗클라이밍을 취미로 빈둥대길 좋아하며 백엔드 개발자를 꿈꾸고 있습니다 ☺️
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=coom1222&utm_content=farm">
 <img
