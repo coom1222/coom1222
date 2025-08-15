@@ -1,7 +1,13 @@
 ## 👋👋   
 안녕하세요! 백엔드 개발자를 꿈꾸며 빈둥대는 클라이머입니다! 부족한 게 많지만 많이 봐주세요!
 
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=coom1222&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/coom1222"
+  width="600"
+  height="300"
+/>
+</a>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
