@@ -65,7 +65,8 @@
         <tr>
           <td>🤖 <b>AI</b></td>
           <td>
-            <img src="https://img.shields.io/badge/-pytorch-#EE4C2C?logo=pytorch&logoColor=white&style=flat"/>
+            <img src="https://img.shields.io/badge/-tensorflow-FFFF64?logo=tensorflow&logocolor=white&style=flat"/">
+            <img src="https://img.shields.io/badge/-pytorch-EE4C2C?logo=pytorch&logoColor=white&style=flat"/>
           </td>
         </tr>
         <tr>
