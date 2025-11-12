@@ -63,9 +63,9 @@
       <table>
         <tr><th>Position</th><th>Stack</th></tr>
         <tr>
-          <td>🎨 <b>Frontend</b></td>
+          <td>🤖 <b>AI</b></td>
           <td>
-            <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"/>
+            <img src="https://img.shields.io/badge/-pytorch-#EE4C2C?logo=pytorch&logoColor=white&style=flat"/>
           </td>
         </tr>
         <tr>
