@@ -89,15 +89,5 @@
 
 ----
 
-<br>
 
-![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=coom1222&show_icons=true&theme=one_dark_pro&count_private=true)
-
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=coom1222)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coom1222&layout=donut&theme=solarized-light&langs_count=5&hide=mustache)
-
-
-<br>
-<br>
 
