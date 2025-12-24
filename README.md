@@ -1,6 +1,5 @@
 🧗클라이밍을 취미로 빈둥대길 좋아하며 백엔드 개발자를 꿈꾸고 있습니다 ☺️
 
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=coom1222&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/coom1222"
@@ -8,7 +7,7 @@
   height="300"
 />
 </a>
-  
+
 
 ---
 
